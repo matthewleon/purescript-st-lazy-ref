@@ -1,3 +1,5 @@
+-- | Lazy references within the ST monad.
+
 module Control.Monad.ST.LazyRef (LazySTRef, defer, force) where
 
 import Prelude

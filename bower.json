@@ -1,5 +1,15 @@
 {
   "name": "purescript-st-lazy-ref",
+  "homepage": "https://github.com/matthewleon/purescript-st-lazy-ref",
+  "authors": [
+    "Matthew Leon <ml@matthewleon.com>"
+  ],
+  "description": "Lazy references with the ST effect.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewleon/purescript-st-lazy-ref.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
