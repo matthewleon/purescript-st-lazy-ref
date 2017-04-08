@@ -4,7 +4,7 @@
   "authors": [
     "Matthew Leon <ml@matthewleon.com>"
   ],
-  "description": "Lazy references with the ST effect.",
+  "description": "Lazy references in the ST effect.",
   "license": "MIT",
   "repository": {
     "type": "git",

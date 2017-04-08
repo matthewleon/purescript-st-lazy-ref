@@ -1,4 +1,4 @@
--- | Lazy references within the ST monad.
+-- | Lazy references in the ST effect.
 
 module Control.Monad.ST.LazyRef (LazySTRef, defer, force) where
 

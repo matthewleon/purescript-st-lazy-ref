@@ -3,7 +3,7 @@
 [![Latest release](https://img.shields.io/github/release/matthewleon/purescript-st-lazy-ref.svg)](https://github.com/matthewleon/purescript-st-lazy-ref/releases)
 [![Build status](https://travis-ci.org/matthewleon/purescript-st-lazy-ref.svg?branch=master)](https://travis-ci.org/matthewleon/purescript-st-lazy-ref)
 
-Platform independent, Lazy references in the ST monad.
+Platform independent, lazy references in the ST effect.
 
 ## Installation
 
