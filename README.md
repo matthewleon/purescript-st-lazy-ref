@@ -8,7 +8,6 @@ Platform independent, lazy references in the ST effect.
 ## Installation
 
 bower install purescript-st-lazy-ref
-```
 
 ## Documentation
 
